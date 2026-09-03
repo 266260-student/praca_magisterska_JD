@@ -1,0 +1,1 @@
+Repozytorium zawiera skrypty w języku Python wykorzystane do przetworzenia danych na potrzeby zrealizowania pracy magisterskiej pt. "Analiza szarżowania wybranych lodowców na Svalbardzie w okresie 2018-2025".
